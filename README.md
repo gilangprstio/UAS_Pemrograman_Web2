@@ -15,3 +15,5 @@ Sistem ini dirancang untuk mempermudah admin toko bangunan dalam mengelola stok 
 - Flask Framework
 - SQLite (Database)
 - HTML/CSS
+- ## Tampilan Aplikasi
+[Dashboard Toko Bangunan Pro](hasilnya.jpeg) 
