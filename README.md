@@ -16,4 +16,10 @@ Sistem ini dirancang untuk mempermudah admin toko bangunan dalam mengelola stok 
 - SQLite (Database)
 - HTML/CSS
 - ## Tampilan Aplikasi
-[Dashboard Toko Bangunan Pro](hasilnya.jpeg) 
+![Dashboard Toko Bangunan Pro] <img width="1600" height="900" alt="hasilnya " src="https://github.com/user-attachments/assets/bd964462-31da-4326-a8c8-b9e021163a92" />
+
+
+
+
+
+
